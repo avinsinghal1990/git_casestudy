@@ -1,2 +1,5 @@
 This is created from Master Branch
 This is edited from develop branch
+This is edited from feature1 branch
+This is edited from feature2 branch
+
